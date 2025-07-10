@@ -30,3 +30,15 @@ This project performs **sentiment analysis** on a set of sample tweets using Pyt
 pip install pandas matplotlib textblob
 python -m textblob.download_corpora
 python sentiment_analysis.py
+
+
+
+git init
+git add .
+git commit -m "Initial commit - Sentiment Analysis Project"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/TweetSentiment.git
+git push -u origin main
+
+
+![image](https://github.com/user-attachments/assets/48aac08b-4d3d-43fb-998c-239a7c1c25ba)
